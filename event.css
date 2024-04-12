@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(245, 203, 239);
+  }
+  .hed {
+    color: rgb(9, 5, 214);
+    text-align: center;
+    font-size: 64;
+    font-family: cursive;
+  }
+  .subhed{
+    color: rgb(9, 5, 214);
+    text-align: center;
+    font-size: 24;
+    font-family: cursive;
+
+  }
+  
+  
+  .image {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 25%;
+    margin-left: 1%;
+    margin-top: 2%;
+  }
+  
+  
+  image:hover {
+    box-shadow: 0 0 2px 1px rgba(212, 39, 166, 0.5);
+  }
+  
+  
